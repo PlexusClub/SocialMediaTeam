@@ -1,0 +1,140 @@
+{
+  "team": {
+    "heads": [
+      {
+        "name": "Ch. Aarthi",
+        "role": "Social Media Lead (4A)",
+        "bio": "Leads overall digital content strategy, brand voice, and platform management for maximum reach.",
+        "image":"./resources/gallery/Aarathi.jpg",
+        "social": {
+          "instagram": "https://www.instagram.com/[aarthi_insta]",
+          "github": "",
+          "linkedin": "https://www.linkedin.com/in/chaarthi/"
+        }
+      },
+      {
+        "name": "B. Arjun",
+        "role": "Social Media Lead (4C)",
+        "bio": "Focuses on community engagement, content scheduling, and managing analytics for performance optimization.",
+        "image": "/resources/gallery/arjun bojja.jpeg.jpg",
+        "social": {
+          "instagram": "https://www.instagram.com/[arjun_insta]",
+          "github": "",
+          "linkedin": "https://www.linkedin.com/in/barjun/"
+        }
+      }
+    ],
+    "coordinators": [
+      {
+        "name": "Bharath Chandra",
+        "role": "Coordinator - Content Strategy (4A)",
+        "bio": "Plans the content calendar and leads the effort to align digital campaigns with club events.",
+        "image": "./resources/members/bharath_chandra.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Sumanth",
+        "role": "Coordinator - Photography (4A)",
+        "bio": "Responsible for capturing high-quality photo and video assets at all club activities.",
+        "image": "./resources/members/sumanth.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Yashwanth",
+        "role": "Coordinator - Analytics (3B)",
+        "bio": "Tracks and reports social media metrics (reach, impressions) to inform future digital strategies.",
+        "image": "./resources/gallery/YASHH.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Ch. Vamshi",
+        "role": "Coordinator - Content Design (3B)",
+        "bio": "Assists the design team in creating dynamic and engaging visual templates for social posts.",
+        "image": "./resources/members/vamshi_ch.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "D. Vamsi",
+        "role": "Coordinator - Copywriting (3C)",
+        "bio": "Crafts compelling post captions, event announcements, and blog summaries for the club's platforms.",
+        "image": "./resources/gallery/vamsi.jpg",
+        "social": { "github": "", "linkedin": "" }
+      }
+    ],
+    "members": [
+      {
+        "name": "Varsha",
+        "role": "Digital Member (2A)",
+        "bio": "Actively involved in community management and real-time event coverage.",
+        "image": "./resources/gallery/varsha kanisetty.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Karthik",
+        "role": "Digital Member (2A)",
+        "bio": "Focuses on trend research and generating ideas for viral content campaigns.",
+        "image": "./resources/gallery/karthik.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Abhinav",
+        "role": "Digital Member (2B)",
+        "bio": "Assists with video editing and post-production for social media reels.",
+        "image": "./resources/members/abhinav.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Sriya",
+        "role": "Digital Member (2C)",
+        "bio": "Responsible for asset organization and maintaining the club's digital resource library.",
+        "image": "./resources/members/sriya.jpg",
+        "social": { "github": "", "linkedin": "" }
+      },
+      {
+        "name": "Triya",
+        "role": "Digital Member (2C)",
+        "bio": "Contributes to copywriting and proofreading all external communications.",
+        "image": "./resources/members/triya.jpg",
+        "social": { "github": "", "linkedin": "" }
+      }
+    ]
+  },
+  "roles": [
+    {
+      "title": "Content Strategy",
+      "icon": "fas fa-bullseye",
+      "responsibilities": [
+        "Campaign Planning: Develop and manage the content calendar across all platforms.",
+        "Branding: Maintain a consistent visual and verbal identity for Plexus.",
+        "Trend Research: Identify and leverage current social media trends.",
+        "Platform Optimization: Adapt content strategies for Instagram, LinkedIn, and X."
+      ],
+      "color": "text-indigo-400"
+    },
+    {
+      "title": "Visual Production",
+      "icon": "fas fa-camera",
+      "responsibilities": [
+        "Photography/Videography: Capture high-quality media during all club events.",
+        "Editing: Post-production editing of photos and reels.",
+        "Live Coverage: Handle real-time updates and story posting during events.",
+        "Asset Management: Organize and archive all digital media."
+      ],
+      "color": "text-purple-400"
+    },
+    {
+      "title": "Engagement & Analytics",
+      "icon": "fas fa-chart-line",
+      "responsibilities": [
+        "Community Management: Monitor comments, DMs, and drive online discussion.",
+        "Reporting: Track engagement metrics (reach, impressions, conversions).",
+        "Optimization: Provide data-driven insights to improve future posting times and content types.",
+        "Copywriting: Write compelling captions and calls-to-action."
+      ],
+      "color": "text-pink-400"
+    }
+  ],
+  "gallery": [
+    
+  ]
+}
