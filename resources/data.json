@@ -5,7 +5,7 @@
         "name": "Ch. Aarthi",
         "role": "Social Media Lead (4A)",
         "bio": "Leads overall digital content strategy, brand voice, and platform management for maximum reach.",
-        "image":"./resources/gallery/Aarathi.jpg",
+        "image": "./resources/gallery/Aarathi.jpg",
         "social": {
           "instagram": "https://www.instagram.com/[aarthi_insta]",
           "github": "",
@@ -135,6 +135,40 @@
     }
   ],
   "gallery": [
-    
+    {
+        "title": "Club Reel",
+        "description": "Short promotional video showcasing the success and atmosphere of the recent Code-Con event.",
+        "image": "./resources/gallery/tech-club-reel-cover.png",
+        "type": "Reel", 
+        "link": "https://www.instagram.com/reel/DOqYbPjklMq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+        "title": "Event Day Photography",
+        "description": "Selection of high-quality photographs capturing the energy and participation during a major club event.",
+        "image": "./resources/gallery/event-day-photography.jpg",
+        "type": "Photography", 
+        "link": "https://www.instagram.com/p/DOgabKVk488/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+        "title": "Weekly Update Graphics",
+        "description": "Series of graphic posts designed for weekly announcements, featuring a consistent visual identity and branding.",
+        "image": "./resources/gallery/weekly-update-post.png",
+        "type": "Post", 
+        "link": "https://www.instagram.com/p/example_graphics"
+    },
+    {
+        "title": "Recruitment Campaign Video",
+        "description": "Animated video produced to attract new members, explaining club activities and benefits.",
+        "image": "./resources/gallery/recruitment-video-cover.png",
+        "type": "Video", 
+        "link": "https://youtube.com/watch/example_video"
+    },
+    {
+        "title": "Faculty Feature Post",
+        "description": "A well-received post highlighting the contributions of a faculty member or patron.",
+        "image": "./resources/gallery/faculty-feature.jpg",
+        "type": "Post", 
+        "link": "https://www.linkedin.com/post/example_faculty"
+    }
   ]
 }
